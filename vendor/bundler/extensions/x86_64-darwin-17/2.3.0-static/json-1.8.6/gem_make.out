@@ -1,0 +1,13 @@
+current directory: /Users/sadahiro/rails_projects/ono_first_app/vendor/bundler/gems/json-1.8.6/ext/json
+/Users/sadahiro/.rbenv/versions/2.3.1/bin/ruby -r ./siteconf20181014-31937-8cfceu.rb extconf.rb
+creating Makefile
+
+current directory: /Users/sadahiro/rails_projects/ono_first_app/vendor/bundler/gems/json-1.8.6/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/sadahiro/rails_projects/ono_first_app/vendor/bundler/gems/json-1.8.6/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/sadahiro/rails_projects/ono_first_app/vendor/bundler/gems/json-1.8.6/ext/json
+make "DESTDIR=" install
